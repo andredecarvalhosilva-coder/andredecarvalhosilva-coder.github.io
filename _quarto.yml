@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "André Oliveira de Carvalho e Silva" 
+
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Currículo"
+        file: Curriculo.qmd
+      - text: "Portifólio" 
+        file: Portifolio.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/andredecarvalhosilva-coder
+      - icon: linkedin
+        href: https://www.linkedin.com/in/andr%C3%A9-oliveira-de-carvalho-e-silva-13b015393/
+
+format:
+  html:
+    theme:
+      - cyborg
+      - brand
+    css: styles.css
+
+editor: visual
+
