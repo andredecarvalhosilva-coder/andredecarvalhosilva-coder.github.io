@@ -10,7 +10,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Currículo"
-        file: Curriculo.qmd
+        file: Curriculo.qmd 
       - text: "Meu Portifólio"   
         file: Portifolio.qmd
 

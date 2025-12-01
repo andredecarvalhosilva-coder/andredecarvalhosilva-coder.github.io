@@ -12,7 +12,7 @@ about:
       href: https://github.com/andredecarvalhosilva-coder
 ---
 
-Sou uma pessoa extremamente sociável, criativa e determinada, com grande paixão por esportes e pela busca constante de novos desafios. Atualmente curso Ciências Exatas na UFJF, onde iniciei meus estudos em 2024, e venho desenvolvendo habilidades em Python e C++, além de aprimorar minha lógica, comunicação e proatividade.
+Sou uma pessoa extremamente sociável, criativa e determinada, com grande paixão por esportes e pela busca constante de novos desafios. Atualmente curso Estatística na UFJF, onde iniciei meus estudos em 2024, e venho desenvolvendo habilidades em Python, R e C++, além de aprimorar minha lógica, comunicação e proatividade.
 
 Tenho uma trajetória marcada pela dedicação e disciplina: fui Campeão Brasileiro de Judô e conquistei medalha de bronze no Campeonato Mineiro de Xadrez, experiências que moldaram minha capacidade de foco, estratégia e resiliência.
 
