@@ -11,7 +11,7 @@ website:
         file: index.qmd
       - text: "Currículo"
         file: Curriculo.qmd
-      - text: "Portifólio"  
+      - text: "Portifólio"   
         file: Portifolio.qmd
 
     right:
